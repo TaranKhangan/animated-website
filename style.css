@@ -96,7 +96,7 @@ justify-content:space-between;
 
 align-items:center;
 
-padding:25px 80px;
+padding:1rem 5rem ;
 
 color:white;
 
@@ -206,9 +206,9 @@ color:#00ffd9;
 
 p{
 
-margin-top:20px;
+margin-top:1rem;
 
-line-height:1.8;
+line-height:1.2;
 
 color:#ddd;
 
@@ -216,9 +216,9 @@ color:#ddd;
 
 button{
 
-margin-top:35px;
+margin-top:2rem;
 
-padding:15px 35px;
+padding:1rem 2rem;
 
 border:none;
 
